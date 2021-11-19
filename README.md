@@ -18,9 +18,8 @@ Project Overview:
 # Data Exploration:
 This is what my DataExploration looks like -
 
-![newplot](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_countplot.png)
-![newplot (1)](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_heatmap.png)
-![newplot (1)](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_histogram.png)
+![newplot](/images/sms-1.png)
+![newplot (1)](/images/sms-2.png)
 
 
 
