@@ -12,7 +12,7 @@ Project Overview:
 <ul>
   <li>Python version- 3.9</li>
   <li>Packages- Pandas, Numpy, Matplotlib, Seaborn, sklearn, StanderdScaler, Cluster</li>
-  <li> Tools and algorithms- Google colab, stopwords, train_test_split, CountVectorizer, Naive_bayes, MultinomialNB, confusion_matrix, classification_report, Kmeans </li> 
+  <li> Tools and algorithms- Google colab, stopwords, train_test_split, MultinomialNB, confusion_matrix, classification_report, Kmeans </li> 
 </ul>
 
 # Data Exploration:
